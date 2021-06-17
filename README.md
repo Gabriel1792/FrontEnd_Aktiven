@@ -1,2 +1,2 @@
 # Aktiven
-app mobile with python
+app mobile in react native
